@@ -1,0 +1,29 @@
+.heading {
+    height: 150;
+    clear: both;
+    padding-top: 30;
+    margin-top: 30;
+    margin-bottom: 5;
+    text-align: center;
+}
+
+.hr-line {
+    height: 2px;
+    border-width: 0;
+    color: grey;
+    background-color: grey
+}
+
+.results {
+    clear: both;
+    padding-top: 10;
+    padding-bottom: 0;
+    padding-left: 20;
+    padding-right: 20;
+    margin-top: 0;
+    text-align: left;
+}
+
+.btn-view {
+    margin-top: 0px
+}
